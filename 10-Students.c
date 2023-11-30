@@ -23,6 +23,7 @@ int main(){
     }
 
     for(int x = 0; x < 10; x++){
+        printf("Information for student: %d\n", x+1);
         printf("Name: %s\n", student[x].name);
         printf("ID: %s\n", student[x].id);
         printf("Age: %d\n", student[x].age);
