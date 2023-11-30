@@ -19,7 +19,7 @@ int main()
     float f2 = m2.feet+(m2.inch/12);
     float f = f1 + f2;
 
-    printf("Addition: %.2f", f);
+    printf("Addition: %.2f feet", f);
 
     return 0;
 }
