@@ -1,4 +1,4 @@
-/*1. Write a program in C to show the sum of the left diagonal.
+/*3. Write a program in C to show the sum of the left diagonal.
 |2 2 3 7|
 |4 5 6 8|
 |7 8 9 9|

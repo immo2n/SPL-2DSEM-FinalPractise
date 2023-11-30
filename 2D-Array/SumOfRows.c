@@ -1,4 +1,4 @@
-/*1. Write a program in C to show the sum of rows.
+/*2. Write a program in C to show the sum of rows.
 |2 2 3|
 |4 5 6|
 |7 8 9|
