@@ -3,12 +3,12 @@
 #include <stdio.h>
 #include <string.h>
 
-struct Student {
+typedef struct {
     char name[50];
     char id[15];
     int age;
     char phone[11];
-};
+} Student;
 
 int main(){
 
@@ -16,7 +16,7 @@ int main(){
     printf("Enter student count: ");
     scanf("%d", &n);
 
-    struct Student student[n];
+    Student student[n];
 
     for(int x = 0; x < n; x++){
         printf("Enter information for student: %d\n", x+1);
