@@ -33,3 +33,20 @@ int main(){
     }
 
 }
+
+/*
+Output
+
+Enter the string:
+Hello World!
+H: 1
+e: 1
+l: 3
+o: 2
+ : 1
+W: 1
+r: 1
+d: 1
+!: 1
+
+*/
