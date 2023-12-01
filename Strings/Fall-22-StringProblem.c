@@ -28,3 +28,13 @@ int main()
 
     return 0;
 }
+
+/* Output:
+
+strlen (str1) : 10
+strcpy( str 3, str2): Bangladesh
+strncpy( str1, str2,5): Bangladesh
+strcat( str1, str2): Beautiful Bangladesh
+strncat( str1, str2,3): Beautiful BangladeshBan
+
+*/
